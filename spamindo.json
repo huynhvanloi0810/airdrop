@@ -1,291 +1,98 @@
 [
-  {
-    "key": "chao ban, ban khoe khong?"
-},
-{
-    "key": "minh moi tham gia, rat vui duoc gap cac ban."
-},
-{
-    "key": "ban di dau vay?"
-},
-{
-    "key": "anh em toi da an com chua?"
-},
-{
-    "key": "hien tai minh dang ban, ban co don khong?"
-},
-{
-    "key": "hom nay thoi tiet dep qua."
-},
-{
-    "key": "chuc ban mot ngay tot lanh."
-},
-{
-    "key": "ban thich nghe nhac the loai nao?"
-},
-{
-    "key": "minh dang tim kiem thong tin ve lumoz."
-},
-{
-    "key": "can giup cai gi khong?"
-},
-{
-    "key": "toi da an com chua?"
-},
-{
-    "key": "ban hay lam gi vao cuoi tuan?"
-},
-{
-    "key": "co ai can giup minh khong?"
-},
-{
-    "key": "ban co thu game nay chua?"
-},
-{
-    "key": "hom nay minh rat vui."
-},
-{
-    "key": "ban co chuyen gi moi khong?"
-},
-{
-    "key": "ban co the chia se kinh nghiem cua ban khong?"
-},
-{
-    "key": "toi nghe noi ban da di du lich, thay nao?"
-},
-{
-    "key": "ban thi sao, ban muon lam gi?"
-},
-{
-    "key": "ban thich xem phim gi?"
-},
-{
-    "key": "toi dang hoc ve blockchain, ban co kinh nghiem khong?"
-},
-{
-    "key": "ban co nghe ve du an lumoz chua?"
-},
-{
-    "key": "toi muon tham gia vao du an lumoz."
-},
-{
-    "key": "ban co thong tin gi ve lumoz khong?"
-},
-{
-    "key": "ban co biet cach tham gia dau tu vao lumoz khong?"
-},
-{
-    "key": "toi thich nong nhat, ban thi sao?"
-},
-{
-    "key": "ban co the giup minh thieu gi ve du an lumoz khong?"
-},
-{
-    "key": "ban muon lam gi vao cuoi tuan?"
-},
-{
-    "key": "hom nay thoi tiet that dep."
-},
-{
-    "key": "ban co ai trong gia dinh la nguoi noi tieng khong?"
-},
-{
-    "key": "ban co thu viec nay chua?"
-},
-{
-    "key": "ban co may lam viec thu vi khong?"
-},
-{
-    "key": "ban hay di choi vao cuoi tuan."
-},
-{
-    "key": "ban co dam me game nao khong?"
-},
-{
-    "key": "toi da noi chuong cua toi roi."
-},
-{
-    "key": "ban co so thich gi khong?"
-},
-{
-    "key": "minh se tham gia du an lumoz."
-},
-{
-    "key": "toi cho rang du an lumoz la mot co hoi."
-},
-{
-    "key": "ban thich quan ao di du lich hay khong?"
-},
-{
-    "key": "toi co the giup ban khong?"
-},
-{
-    "key": "ban co chieu thich cho toi khong?"
-},
-{
-    "key": "toi cuoi tuan hay di dap."
-},
-{
-    "key": "ban co mang ve du an lumoz khong?"
-},
-{
-    "key": "ban da an com chua?"
-},
-{
-    "key": "ban co nhieu so thich khong?"
-},
-{
-    "key": "toi thich nghe nhac rock."
-},
-{
-    "key": "ban co y kien gi ve du an lumoz?"
-},
-{
-    "key": "toi se tham gia va dau tu trong du an lumoz."
-},
-{
-    "key": "ban co the chia se kinh nghiem ve giao dich lumoz khong?"
-},
-{
-    "key": "toi co thi truong moi cho lumoz."
-},
-{
-    "key": "ban co tin rang lumoz se phat trien manh me khong?"
-},
-{
-    "key": "ban co tham gia vao cong dong lumoz khong?"
-},
-{
-    "key": "ban co thu dau tu vao lumoz chua?"
-},
-{
-    "key": "minh dang theo doi tien trinh cua lumoz."
-},
-{
-    "key": "lumoz se la mot lua chon tuyet voi cho nha dau tu."
-},
-{
-    "key": "moi nguoi trong cong dong lumoz that su rat nhiet huyet."
-},
-{
-    "key": "lumoz co the thay doi cach giao dich tien ma hoa."
-},
-{
-    "key": "ban co tin rang lumoz se tro thanh xu huong moi khong?"
-},
-{
-    "key": "ban co the chi minh cach dau tu vao lumoz duoc khong?"
-},
-{
-    "key": "lumoz dang co mot co hoi lon trong nam nay."
-},
-{
-    "key": "lumoz dang phat trien rat nhanh chong."
-},
-{
-    "key": "ban nghi sao ve tiem nang cua lumoz trong tuong lai?"
-},
-{
-    "key": "lumoz se mang lai co hoi cho tat ca moi nguoi."
-},
-{
-    "key": "ban co the cho minh loi khuyen ve lumoz khong?"
-},
-{
-    "key": "lumoz la mot du an dau tu dang de tham gia."
-},
-{
-    "key": "ban nghi sao ve doi ngu phat trien cua lumoz?"
-},
-{
-    "key": "ban co thu dung ung dung lumoz chua?"
-},
-{
-    "key": "lumoz co tiem nang tro thanh mot trong nhung dong tien lon."
-},
-{
-    "key": "ban co biet cach tao vi lumoz khong?"
-},
-{
-    "key": "lumoz dang tim kiem nha dau tu moi."
-},
-{
-    "key": "ban nghi gi ve gia tri cua lumoz trong tuong lai?"
-},
-{
-    "key": "lumoz la mot du an tien ma hoa rat dang chu y."
-},
-{
-    "key": "cong dong lumoz rat nang dong va san sang giup do."
-},
-{
-    "key": "lumoz dang phat trien mot cong dong manh me."
-},
-{
-    "key": "ban co dang theo doi su phat trien cua lumoz khong?"
-},
-{
-    "key": "lumoz co the la dong tien ma hoa cua tuong lai."
-},
-{
-    "key": "ban co biet cach tham gia vao chuong trinh airdrop cua lumoz khong?"
-},
-{
-    "key": "lumoz dang la mot trong nhung du an noi bat trong nganh."
-},
-{
-    "key": "ban nghi sao ve chien luoc quang ba cua lumoz?"
-},
-{
-    "key": "lumoz dang tao co hoi cho cac nha dau tu khoi nghiep."
-},
-{
-    "key": "ban nghi lumoz se giup ban tang truong tai chinh khong?"
-},
-{
-    "key": "ban co dang nghien cuu ve lumoz khong?"
-},
-{
-    "key": "lumoz dang thay doi thi truong tien ma hoa tung ngay."
-},
-{
-    "key": "ban co tim thay thong tin ve lumoz o dau?"
-},
-{
-    "key": "lumoz la co hoi khong the bo lo trong thoi diem hien tai."
-},
-{
-    "key": "ban co tham gia vao su kien cua lumoz khong?"
-},
-{
-    "key": "lumoz co the la lua chon tot cho cac nha dau tu."
-},
-{
-    "key": "ban co the chia se y kien cua minh ve lumoz khong?"
-},
-{
-    "key": "ban co nghe ve du an lumoz trong thoi gian gan day khong?"
-},
-{
-    "key": "ban co tin vao tien nang cua lumoz trong tuong lai?"
-},
-{
-    "key": "lumoz dang xay dung mot co hoi tai chinh toi uu cho tat ca."
-},
-{
-    "key": "ban co tham gia vao chuong trinh airdrop cua lumoz khong?"
-},
-{
-    "key": "lumoz dang thu hut su chu y cua rat nhieu nha dau tu."
-},
-{
-    "key": "ban co nghi rang lumoz se tro thanh dong tien ma hoa noi bat?"
-},
-{
-    "key": "ban co hoang mang ve kha nang cua lumoz trong thi truong tien ma hoa?"
-},
-{
-    "key": "lumoz dang tao ra mot cuoc cách mạng trong thế giới tiền mã hóa."
-}
-
+    { "key": "Hai teman, apa kabar?" },
+    { "key": "Saya baru bergabung, senang bertemu dengan kalian." },
+    { "key": "Kamu pergi ke mana?" },
+    { "key": "Sudah makan belum?" },
+    { "key": "Saat ini saya sedang sibuk, kamu tidak merasa kesepian, kan?" },
+    { "key": "Cuaca hari ini sangat bagus." },
+    { "key": "Semoga harimu menyenankan." },
+    { "key": "Kamu suka mendengarkan musik genre apa?" },
+    { "key": "Saya sedang mencari informasi tentang Lumoz." },
+    { "key": "Ada yang bisa saya bantu?" },
+    { "key": "Sudah makan belum?" },
+    { "key": "Apa yang biasanya kamu lakukan di akhir pekan?" },
+    { "key": "Ada yang bisa membantu saya?" },
+    { "key": "Sudah mencoba game ini?" },
+    { "key": "Hari ini saya sangat senang." },
+    { "key": "Ada cerita baru apa?" },
+    { "key": "Bisa berbagi pengalaman kamu?" },
+    { "key": "Saya dengar kamu sudah pergi berlibur, bagaimana?" },
+    { "key": "Bagaimana dengan kamu, apa yang ingin kamu lakukan?" },
+    { "key": "Kamu suka menonton film apa?" },
+    { "key": "Saya sedang belajar tentang blockchain, kamu punya pengalaman, kan?" },
+    { "key": "Kamu pernah mendengar tentang proyek Lumoz?" },
+    { "key": "Saya ingin bergabung dengan proyek Lumoz." },
+    { "key": "Apakah kamu punya informasi tentang Lumoz?" },
+    { "key": "Kamu tahu cara ikut berinvestasi di Lumoz?" },
+    { "key": "Saya suka makanan pedas, bagaimana dengan kamu?" },
+    { "key": "Bisa bantu saya kekurangan informasi tentang proyek Lumoz?" },
+    { "key": "Kamu mau melakukan apa di akhir pekan?" },
+    { "key": "Cuaca hari ini benar-benar indah." },
+    { "key": "Ada anggota keluarga kamu yang terkenal tidak?" },
+    { "key": "Kamu sudah mencoba pekerjaan ini?" },
+    { "key": "Kamu punya pekerjaan yang menarik?" },
+    { "key": "Kamu suka jalan-jalan di akhir pekan?" },
+    { "key": "Apakah kamu punya hobi bermain game?" },
+    { "key": "Saya sudah menyelesaikan bab saya." },
+    { "key": "Kamu punya hobi tidak?" },
+    { "key": "Saya akan bergabung dengan proyek Lumoz." },
+    { "key": "Saya rasa proyek Lumoz adalah sebuah peluang." },
+    { "key": "Kamu suka pakaian untuk traveling atau tidak?" },
+    { "key": "Bisa saya bantu?" },
+    { "key": "Ada saran untuk saya?" },
+    { "key": "Saya sering jalan-jalan di akhir pekan." },
+    { "key": "Kamu membawa informasi tentang proyek Lumoz?" },
+    { "key": "Sudah makan belum?" },
+    { "key": "Kamu punya banyak hobi tidak?" },
+    { "key": "Saya suka mendengarkan musik rock." },
+    { "key": "Apa pendapat kamu tentang proyek Lumoz?" },
+    { "key": "Saya akan bergabung dan berinvestasi di proyek Lumoz." },
+    { "key": "Bisa berbagi pengalaman kamu tentang transaksi di Lumoz?" },
+    { "key": "Saya punya pasar baru untuk Lumoz." },
+    { "key": "Kamu percaya Lumoz akan berkembang pesat?" },
+    { "key": "Apakah kamu ikut dalam komunitas Lumoz?" },
+    { "key": "Kamu sudah berinvestasi di Lumoz?" },
+    { "key": "Saya sedang mengikuti perkembangan Lumoz." },
+    { "key": "Lumoz akan menjadi pilihan hebat bagi investor." },
+    { "key": "Semua orang di komunitas Lumoz sangat bersemangat." },
+    { "key": "Lumoz bisa mengubah cara orang bertransaksi dengan cryptocurrency." },
+    { "key": "Kamu percaya Lumoz akan menjadi tren baru?" },
+    { "key": "Bisa tunjukkan saya cara berinvestasi di Lumoz?" },
+    { "key": "Lumoz memiliki peluang besar tahun ini." },
+    { "key": "Lumoz sedang berkembang sangat cepat." },
+    { "key": "Apa pendapat kamu tentang potensi Lumoz di masa depan?" },
+    { "key": "Lumoz akan memberikan peluang bagi semua orang." },
+    { "key": "Bisa beri saya saran tentang Lumoz?" },
+    { "key": "Lumoz adalah proyek investasi yang mudah untuk diikuti." },
+    { "key": "Apa pendapat kamu tentang tim pengembang Lumoz?" },
+    { "key": "Sudah coba aplikasi Lumoz?" },
+    { "key": "Lumoz memiliki potensi untuk menjadi salah satu cryptocurrency terbesar." },
+    { "key": "Kamu tahu cara membuat dompet Lumoz?" },
+    { "key": "Lumoz sedang mencari investor baru." },
+    { "key": "Apa pendapat kamu tentang nilai Lumoz di masa depan?" },
+    { "key": "Lumoz adalah proyek cryptocurrency yang sangat menarik." },
+    { "key": "Komunitas Lumoz sangat aktif dan siap membantu." },
+    { "key": "Lumoz sedang membangun komunitas yang kuat." },
+    { "key": "Kamu sedang mengikuti perkembangan Lumoz?" },
+    { "key": "Lumoz bisa menjadi mata uang cryptocurrency masa depan." },
+    { "key": "Kamu tahu cara ikut dalam program airdrop Lumoz?" },
+    { "key": "Lumoz adalah salah satu proyek yang paling menonjol di industri." },
+    { "key": "Apa pendapat kamu tentang strategi pemasaran Lumoz?" },
+    { "key": "Lumoz sedang menciptakan peluang bagi para investor startup." },
+    { "key": "Kamu pikir Lumoz akan membantu kamu berkembang secara finansial?" },
+    { "key": "Kamu sedang meneliti tentang Lumoz?" },
+    { "key": "Lumoz sedang mengubah pasar cryptocurrency setiap hari." },
+    { "key": "Kamu menemukan informasi tentang Lumoz di mana?" },
+    { "key": "Lumoz adalah peluang yang tidak boleh dilewatkan saat ini." },
+    { "key": "Kamu ikut dalam acara Lumoz?" },
+    { "key": "Lumoz bisa menjadi pilihan terbaik untuk investor." },
+    { "key": "Bisa berbagi pendapat kamu tentang Lumoz?" },
+    { "key": "Kamu pernah mendengar tentang proyek Lumoz baru-baru ini?" },
+    { "key": "Kamu percaya pada potensi Lumoz di masa depan?" },
+    { "key": "Lumoz sedang membangun peluang finansial yang optimal untuk semua." },
+    { "key": "Kamu ikut dalam program airdrop Lumoz?" },
+    { "key": "Lumoz menarik perhatian banyak investor." },
+    { "key": "Kamu pikir Lumoz akan menjadi cryptocurrency yang menonjol?" },
+    { "key": "Kamu khawatir tentang kemampuan Lumoz di pasar cryptocurrency?" },
+    { "key": "Lumoz sedang menciptakan revolusi di dunia cryptocurrency." }
 ]
