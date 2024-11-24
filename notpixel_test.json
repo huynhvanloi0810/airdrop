@@ -1,32 +1,291 @@
 [
   {
     "key": "chao ban, ban khoe khong?"
-  },
-  {
-      "key": "minh moi tham gia, rat vui duoc gap cac ban."
-  },
-  {
-      "key": "ban di dau vay?"
-  },
-  {
-      "key": "anh em toi da an com chua?"
-  },
-  {
-      "key": "hien tai minh dang ban, ban co don khong?"
-  },
-  {
-      "key": "hom nay thoi tiet dep qua."
-  },
-  {
-      "key": "chuc ban mot ngay tot lanh."
-  },
-  {
-      "key": "ban thich nghe nhac the loai nao?"
-  },
-  {
-      "key": "minh dang tim kiem thong tin ve lumoz."
-  },
-  {
-      "key": "can giup cai gi khong?"
-  }
+},
+{
+    "key": "minh moi tham gia, rat vui duoc gap cac ban."
+},
+{
+    "key": "ban di dau vay?"
+},
+{
+    "key": "anh em toi da an com chua?"
+},
+{
+    "key": "hien tai minh dang ban, ban co don khong?"
+},
+{
+    "key": "hom nay thoi tiet dep qua."
+},
+{
+    "key": "chuc ban mot ngay tot lanh."
+},
+{
+    "key": "ban thich nghe nhac the loai nao?"
+},
+{
+    "key": "minh dang tim kiem thong tin ve lumoz."
+},
+{
+    "key": "can giup cai gi khong?"
+},
+{
+    "key": "toi da an com chua?"
+},
+{
+    "key": "ban hay lam gi vao cuoi tuan?"
+},
+{
+    "key": "co ai can giup minh khong?"
+},
+{
+    "key": "ban co thu game nay chua?"
+},
+{
+    "key": "hom nay minh rat vui."
+},
+{
+    "key": "ban co chuyen gi moi khong?"
+},
+{
+    "key": "ban co the chia se kinh nghiem cua ban khong?"
+},
+{
+    "key": "toi nghe noi ban da di du lich, thay nao?"
+},
+{
+    "key": "ban thi sao, ban muon lam gi?"
+},
+{
+    "key": "ban thich xem phim gi?"
+},
+{
+    "key": "toi dang hoc ve blockchain, ban co kinh nghiem khong?"
+},
+{
+    "key": "ban co nghe ve du an lumoz chua?"
+},
+{
+    "key": "toi muon tham gia vao du an lumoz."
+},
+{
+    "key": "ban co thong tin gi ve lumoz khong?"
+},
+{
+    "key": "ban co biet cach tham gia dau tu vao lumoz khong?"
+},
+{
+    "key": "toi thich nong nhat, ban thi sao?"
+},
+{
+    "key": "ban co the giup minh thieu gi ve du an lumoz khong?"
+},
+{
+    "key": "ban muon lam gi vao cuoi tuan?"
+},
+{
+    "key": "hom nay thoi tiet that dep."
+},
+{
+    "key": "ban co ai trong gia dinh la nguoi noi tieng khong?"
+},
+{
+    "key": "ban co thu viec nay chua?"
+},
+{
+    "key": "ban co may lam viec thu vi khong?"
+},
+{
+    "key": "ban hay di choi vao cuoi tuan."
+},
+{
+    "key": "ban co dam me game nao khong?"
+},
+{
+    "key": "toi da noi chuong cua toi roi."
+},
+{
+    "key": "ban co so thich gi khong?"
+},
+{
+    "key": "minh se tham gia du an lumoz."
+},
+{
+    "key": "toi cho rang du an lumoz la mot co hoi."
+},
+{
+    "key": "ban thich quan ao di du lich hay khong?"
+},
+{
+    "key": "toi co the giup ban khong?"
+},
+{
+    "key": "ban co chieu thich cho toi khong?"
+},
+{
+    "key": "toi cuoi tuan hay di dap."
+},
+{
+    "key": "ban co mang ve du an lumoz khong?"
+},
+{
+    "key": "ban da an com chua?"
+},
+{
+    "key": "ban co nhieu so thich khong?"
+},
+{
+    "key": "toi thich nghe nhac rock."
+},
+{
+    "key": "ban co y kien gi ve du an lumoz?"
+},
+{
+    "key": "toi se tham gia va dau tu trong du an lumoz."
+},
+{
+    "key": "ban co the chia se kinh nghiem ve giao dich lumoz khong?"
+},
+{
+    "key": "toi co thi truong moi cho lumoz."
+},
+{
+    "key": "ban co tin rang lumoz se phat trien manh me khong?"
+},
+{
+    "key": "ban co tham gia vao cong dong lumoz khong?"
+},
+{
+    "key": "ban co thu dau tu vao lumoz chua?"
+},
+{
+    "key": "minh dang theo doi tien trinh cua lumoz."
+},
+{
+    "key": "lumoz se la mot lua chon tuyet voi cho nha dau tu."
+},
+{
+    "key": "moi nguoi trong cong dong lumoz that su rat nhiet huyet."
+},
+{
+    "key": "lumoz co the thay doi cach giao dich tien ma hoa."
+},
+{
+    "key": "ban co tin rang lumoz se tro thanh xu huong moi khong?"
+},
+{
+    "key": "ban co the chi minh cach dau tu vao lumoz duoc khong?"
+},
+{
+    "key": "lumoz dang co mot co hoi lon trong nam nay."
+},
+{
+    "key": "lumoz dang phat trien rat nhanh chong."
+},
+{
+    "key": "ban nghi sao ve tiem nang cua lumoz trong tuong lai?"
+},
+{
+    "key": "lumoz se mang lai co hoi cho tat ca moi nguoi."
+},
+{
+    "key": "ban co the cho minh loi khuyen ve lumoz khong?"
+},
+{
+    "key": "lumoz la mot du an dau tu dang de tham gia."
+},
+{
+    "key": "ban nghi sao ve doi ngu phat trien cua lumoz?"
+},
+{
+    "key": "ban co thu dung ung dung lumoz chua?"
+},
+{
+    "key": "lumoz co tiem nang tro thanh mot trong nhung dong tien lon."
+},
+{
+    "key": "ban co biet cach tao vi lumoz khong?"
+},
+{
+    "key": "lumoz dang tim kiem nha dau tu moi."
+},
+{
+    "key": "ban nghi gi ve gia tri cua lumoz trong tuong lai?"
+},
+{
+    "key": "lumoz la mot du an tien ma hoa rat dang chu y."
+},
+{
+    "key": "cong dong lumoz rat nang dong va san sang giup do."
+},
+{
+    "key": "lumoz dang phat trien mot cong dong manh me."
+},
+{
+    "key": "ban co dang theo doi su phat trien cua lumoz khong?"
+},
+{
+    "key": "lumoz co the la dong tien ma hoa cua tuong lai."
+},
+{
+    "key": "ban co biet cach tham gia vao chuong trinh airdrop cua lumoz khong?"
+},
+{
+    "key": "lumoz dang la mot trong nhung du an noi bat trong nganh."
+},
+{
+    "key": "ban nghi sao ve chien luoc quang ba cua lumoz?"
+},
+{
+    "key": "lumoz dang tao co hoi cho cac nha dau tu khoi nghiep."
+},
+{
+    "key": "ban nghi lumoz se giup ban tang truong tai chinh khong?"
+},
+{
+    "key": "ban co dang nghien cuu ve lumoz khong?"
+},
+{
+    "key": "lumoz dang thay doi thi truong tien ma hoa tung ngay."
+},
+{
+    "key": "ban co tim thay thong tin ve lumoz o dau?"
+},
+{
+    "key": "lumoz la co hoi khong the bo lo trong thoi diem hien tai."
+},
+{
+    "key": "ban co tham gia vao su kien cua lumoz khong?"
+},
+{
+    "key": "lumoz co the la lua chon tot cho cac nha dau tu."
+},
+{
+    "key": "ban co the chia se y kien cua minh ve lumoz khong?"
+},
+{
+    "key": "ban co nghe ve du an lumoz trong thoi gian gan day khong?"
+},
+{
+    "key": "ban co tin vao tien nang cua lumoz trong tuong lai?"
+},
+{
+    "key": "lumoz dang xay dung mot co hoi tai chinh toi uu cho tat ca."
+},
+{
+    "key": "ban co tham gia vao chuong trinh airdrop cua lumoz khong?"
+},
+{
+    "key": "lumoz dang thu hut su chu y cua rat nhieu nha dau tu."
+},
+{
+    "key": "ban co nghi rang lumoz se tro thanh dong tien ma hoa noi bat?"
+},
+{
+    "key": "ban co hoang mang ve kha nang cua lumoz trong thi truong tien ma hoa?"
+},
+{
+    "key": "lumoz dang tao ra mot cuoc cách mạng trong thế giới tiền mã hóa."
+}
+
 ]
