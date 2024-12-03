@@ -1,332 +1,80 @@
 [
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5315487777_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x724_y844",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5315487777_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x731_y834",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5315487777_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x746_y841",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5315487777_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x742_y823",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5315487777_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x730_y820",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f6578955397_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x48_y31",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f6578955397_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x63_y44",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f6578955397_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x150_y29",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f6578955397_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x143_y37",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f6578955397_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x152_y96",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f6578955397_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x141_y132",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f6578955397_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x125_y137",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1039132706_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x880_y947",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1039132706_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x881_y992",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1039132706_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x901_y997",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1039132706_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x915_y992",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1039132706_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x924_y988",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1039132706_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x902_y948",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1039132706_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x893_y944",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f7114665280_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x137_y39",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f7114665280_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x153_y42",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f7114665280_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x133_y58",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f7114665280_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x121_y70",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f7114665280_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x154_y42",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f7114665280_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x122_y105",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f7114665280_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x121_y120",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f7114665280_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x124_y131",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f7114665280_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x136_y147",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f7114665280_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x147_y148",
-    "mau": 30
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1311866928_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x525_y925",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1311866928_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x532_y929",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1311866928_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x536_y917",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1311866928_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x537_y924",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1311866928_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x544_y918",
-    "mau": 10
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5837589009_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x153_y27",
-    "mau": 2
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5837589009_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x155_y39",
-    "mau": 2
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5837589009_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x154_y54",
-    "mau": 2
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5837589009_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x143_y58",
-    "mau": 2
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5837589009_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x171_y36",
-    "mau": 2
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f5837589009_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x175_y37",
-    "mau": 2
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x23_y27",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x32_y32",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x26_y40",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x38_y26",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x45_y33",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x51_y25",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x131_y134",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x137_y138",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x135_y126",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x127_y118",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1675295056_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x134_y112",
-    "mau": 9
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1307361893_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x128_y128",
-    "mau": 13
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1307361893_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x131_y137",
-    "mau": 13
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1307361893_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x174_y130",
-    "mau": 13
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1307361893_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x176_y136",
-    "mau": 13
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1307361893_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x178_y167",
-    "mau": 13
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1307361893_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x174_y175",
-    "mau": 13
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1307361893_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x167_y177",
-    "mau": 13
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1506332503_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x139_y151",
-    "mau": 12
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1506332503_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x138_y160",
-    "mau": 12
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1506332503_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x150_y184",
-    "mau": 12
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1506332503_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x182_y165",
-    "mau": 12
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1506332503_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x181_y150",
-    "mau": 12
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1506332503_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x171_y137",
-    "mau": 12
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1506332503_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x154_y133",
-    "mau": 12
-  },
-  {
-    "link_hinh": "https://t.me/notpixel/app?startapp=f1506332503_t",
-    "link_toa_do": "https://t.me/notpixel/app?startapp=x142_y144",
-    "mau": 12
-  }
+{"key":"В моей семье еще есть мама, дедушка и бабушка"},
+{"key":"Цель на 20-е число — это то, что в списке?"},
+{"key":"Все очень заняты"},
+{"key":"Желаю всем успеха и удачи"},
+{"key":"Состояние не очень хорошее"},
+{"key":"Завтра в Хошимине будет так же"},
+{"key":"Могут ли игроки высокого уровня получить NFT?"},
+{"key":"Могут ли игроки высокого уровня получить NFT?"},
+{"key":"Есть ли у кого-нибудь опыт покупки NFT?"},
+{"key":"Есть ли у кого-нибудь NFT в этой игре?"},
+{"key":"Какая ценность у NFT в этой игре?"},
+{"key":"Есть ли кто-то, кто готов продать мне NFT?"},
+{"key":"Есть ли в игре NFT, которые можно купить?"},
+{"key":"Можно ли обменивать NFT в этой игре?"},
+{"key":"Могут ли игроки высокого уровня забрать NFT, выброшенные на улицу?"},
+{"key":"Знает ли кто-нибудь информацию о NFT в этой игре?"},
+{"key":"Для чего используются NFT в этой игре?"},
+{"key":"Желаю удачи в жизни!"},
+{"key":"Желаю успехов во всех проектах!"},
+{"key":"Надеюсь, ты сможешь осуществить свои мечты!"},
+{"key":"Желаю тебе удачи и успеха в жизни!"},
+{"key":"Желаю сделать большой шаг на пути к успеху!"},
+{"key":"Желаю тебе осуществить свои мечты!"},
+{"key":"Тот, кто терпелив, будет удачлив!"},
+{"key":"Желаю тебе достичь новых высот в карьере!"},
+{"key":"Желаю тебе огромного успеха в будущем!"},
+{"key":"Желаю, чтобы ты всегда шел по пути успеха и счастья!"},
+{"key":"Какой курс обмена esmoz на moz?"},
+{"key":"Знает ли кто-нибудь текущий курс обмена esmoz и moz?"},
+{"key":"Как меняется курс обмена esmoz на moz?"},
+{"key":"Есть ли информация о курсе обмена esmoz и moz?"},
+{"key":"Есть ли курс обмена между esmoz и moz?"},
+{"key":"Сколько esmoz нужно, чтобы обменять на 1 moz?"},
+{"key":"Нужно ли каждый день проверять курс обмена esmoz и moz?"},
+{"key":"Меняется ли курс обмена esmoz и moz со временем?"},
+{"key":"Есть ли официальный курс обмена esmoz и moz?"},
+{"key":"Знает ли кто-нибудь подробности обменного курса esmoz и moz?"},
+{"key":"Какой курс обмена esmoz на moz на данный момент?"},
+{"key":"Знает ли кто-нибудь текущую цену esmoz и moz?"},
+{"key":"Меняется ли курс обмена esmoz и moz со временем?"},
+{"key":"Esmoz и moz — это две разные валюты, каков курс обмена?"},
+{"key":"Какой обменный курс между esmoz и moz?"},
+{"key":"Хочет ли кто-нибудь узнать точный курс обмена esmoz и moz?"},
+{"key":"Меняется ли курс обмена esmoz и moz в зависимости от рыночной цены?"},
+{"key":"Сколько esmoz нужно для обмена на 1 moz в одном обмене?"},
+{"key":"Меняется ли курс обмена esmoz на moz ежедневно?"},
+{"key":"Есть ли риск мошенничества при обмене esmoz на moz?"},
+{"key":"Равен ли курс обмена esmoz и moz?"},
+{"key":"Будет ли курс обмена esmoz и moz расти или оставаться стабильным со временем?"},
+{"key":"Сколько esmoz нужно, чтобы обменять на 1 moz?"},
+{"key":"Как проверить курс обмена esmoz на moz?"},
+{"key":"Какие правила обмена между esmoz и moz?"},
+{"key":"Продолжают ли изменяться курсы обмена esmoz и moz?"},
+{"key":"Как быстро обменять esmoz на moz?"},
+{"key":"Поддерживают ли esmoz и moz взаимный обмен?"},
+{"key":"Меняется ли курс обмена esmoz на moz постоянно?"},
+{"key":"Какой курс обмена esmoz на moz в транзакции?"},
+{"key":"Как проверить актуальный курс обмена esmoz на moz?"},
+{"key":"Меняется ли курс обмена esmoz на moz на рынке?"},
+{"key":"Сколько esmoz можно обменять на moz в день?"},
+{"key":"Предлагали ли инвесторы обменять esmoz на moz?"},
+{"key":"Влияет ли изменение стоимости на курс обмена esmoz и moz?"},
+{"key":"Какой точный курс обмена esmoz и moz?"},
+{"key":"Есть ли информация о точном курсе обмена esmoz на moz?"},
+{"key":"Настойчивость — ключ к успеху"},
+{"key":"Вперёд, мы все достигнем успеха"},
+{"key":"Даже в самых трудных ситуациях мы должны продолжать двигаться вперёд"},
+{"key":"Мотивация — это ключевой фактор для движения вперёд"},
+{"key":"Каждый день нужно работать, чтобы создавать разницу"},
+{"key":"Если мы будем работать вместе, мы обязательно добьемся успеха"},
+{"key":"Если будем упорны, успех обязательно придет"},
+{"key":"Мы создаём успех в простых вещах"},
+{"key":"Желаю всем терпения, успех обязательно придет"},
+{"key":"努力永远不会白费"},
+{"key":"Долгие усилия никогда не пропадут зря"},
+{"key":"В условиях трудностей поддержка друг друга творит чудеса"},
+{"key":"В работе внутренний покой — основа всего"},
+{"key":"Поздравляю вас, все обязательно добьетесь успеха"}
 ]
