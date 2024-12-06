@@ -1,14 +1,14 @@
 [
       {
-    "task": "CEO",
+    "task": "See our CEO's latest video",
     "key": "NRD010",
   },
       {
-    "task": "latest video",
+    "task": "Check out our latest video",
     "key": "NRD484",
   },
     {
-    "task": "site",
+    "task": "Visit the site to find the keyword",
     "key": "NRD13740",
   }
 ]
