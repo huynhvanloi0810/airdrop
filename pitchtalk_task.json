@@ -1,0 +1,14 @@
+{
+"number_of_task": "3",
+"task":[
+		{
+			"task_name" : "Follow PitchTalk on X"
+		},
+		{
+			"task_name" : "Follow PitchTalk on Youtube"
+		},
+		{
+			"task_name" : "Subscribe to PitchTalk chanel"
+		}
+	]
+}
