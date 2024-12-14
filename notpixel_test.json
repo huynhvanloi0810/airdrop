@@ -1,4 +1,5 @@
-{
+[
+	{
 	"number_of_task": "11"
 	"task":[
 		{
@@ -35,4 +36,5 @@
 			"task_name" : "Hold to Earn"
 		}
 		]
-}
+	}
+]
