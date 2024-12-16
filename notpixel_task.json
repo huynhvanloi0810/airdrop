@@ -1,5 +1,5 @@
 {
-"number_of_task": "11",
+"number_of_task": "14",
 "task":[
 		{
 			"task_name" : "Follow NikolAI on X"
@@ -33,6 +33,15 @@
 		},
 		{
 			"task_name" : "Hold to Earn"
+		},
+		{
+			"task_name" : "Mine tokens, get rewards!"
+		},
+		{
+			"task_name" : "Join $DUCK for Airdrop"
+		},
+		{
+			"task_name" : "Play Coinflip and get $TRMNL"
 		}
 	]
 }
