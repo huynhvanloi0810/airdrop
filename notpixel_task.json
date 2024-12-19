@@ -1,5 +1,5 @@
 {
-"number_of_task": "14",
+"number_of_task": "16",
 "task":[
 		{
 			"task_name" : "Follow NikolAI on X"
@@ -42,6 +42,12 @@
 		},
 		{
 			"task_name" : "Play Coinflip and get $TRMNL"
+		},
+		{
+			"task_name" : "Boinkers: Spin the Slot 10 Times"
+		},
+		{
+			"task_name" : "Sticker Store: Pudgy Penguins, BAYC and others"
 		}
 	]
 }
