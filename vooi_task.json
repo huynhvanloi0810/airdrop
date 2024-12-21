@@ -1,0 +1,20 @@
+{
+"number_of_task": "5",
+"task":[
+		{
+			"task_name" : "Watch and like the video about VOOI Trading App on YouTube"
+		},
+		{
+			"task_name" : "Subscribe to VOOI Telegram"
+		},
+		{
+			"task_name" : "Follow VOOI on X"
+		},
+		{
+			"task_name" : "Join VOOI Discord channel"
+		},
+		{
+			"task_name" : "Subscribe to VOOI YouTube"
+		}
+	]
+}
