@@ -62,11 +62,7 @@
 		"key": "HSK"
 	},
 	{
-		"link_x": "chrome-extension://khiadfchcnhglebncibjlhcpafpejbpo/offscreen.html",
-		"key": "HSK"
-	},
-	{
-		"link_x": "chrome-extension://khiadfchcnhglebncibjlhcpafpejbpo/offscreen.html",
+		"link_x": "chrome-extension:",
 		"key": "HSK"
 	},
 	{
