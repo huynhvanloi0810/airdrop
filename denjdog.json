@@ -35,6 +35,7 @@
 		"link_x": "AIrealTrump",
 		"key": "AIrealTrump"
 	},
+
 	{
 		"link_x": "BarronTrunpPRD",
 		"key": "BarronTrunpPRD"
@@ -61,7 +62,7 @@
 		"key": "HSK"
 	},
 	{
-		"link_x": "flhpobcpjeilaheadnpdkkinakogbdhb?hl=zh-CN&utm_source=ext_sidebar",
+		"link_x": "chrome-extension://khiadfchcnhglebncibjlhcpafpejbpo/offscreen.html",
 		"key": "HSK"
 	},
 	{
