@@ -66,6 +66,10 @@
 		"key": "HSK"
 	},
 	{
+		"link_x": "chrome-extension://khiadfchcnhglebncibjlhcpafpejbpo/offscreen.html",
+		"key": "HSK"
+	},
+	{
 		"link_x": "BinancePRD",
 		"key": "BinancePRD"
 	}
