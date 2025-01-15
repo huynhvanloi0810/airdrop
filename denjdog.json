@@ -66,6 +66,10 @@
 		"key": "HSK"
 	},
 	{
+		"link_x": "https://x.com/DejenDogBot",
+		"key": "Dogent"
+	},
+	{
 		"link_x": "BinancePRD",
 		"key": "BinancePRD"
 	}
