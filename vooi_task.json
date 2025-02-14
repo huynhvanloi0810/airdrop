@@ -1,5 +1,5 @@
 {
-"number_of_task": "5",
+"number_of_task": "10",
 "task":[
 		{
 			"task_name" : "Watch and like the video about VOOI Trading App on YouTube"
@@ -17,7 +17,19 @@
 			"task_name" : "Subscribe to VOOI YouTube"
 		},
 		{
-			"task_name" : "Like and retweet the VOOI Chain Abstraction article"
+			"task_name" : "Join Bitget Wallet Lite Telegram Channel"
+		},
+		{
+			"task_name" : "Follow Bitget Wallet on X"
+		},
+		{
+			"task_name" : "Like, RT & Bookmark the latest article to earn"
+		},
+		{
+			"task_name" : "Visit Bitget Wallet Lite"
+		},
+		{
+			"task_name" : "Like, RT & Bookmark the latest article to earn"
 		}
 	]
 }
